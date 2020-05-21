@@ -1,4 +1,4 @@
-# encrypto-py
+# Encrypto-GUI
 Python GUI Encrytion/Decrytion tool to keep file safe.
 
 __________________________________________________________________________
@@ -8,7 +8,7 @@ __________________________________________________________________________
 
 2. git clone this project to your preferred directory.
 
-3. `cd encryoto-py`
+3. `cd Encryoto-GUI`
 
 4. `python encryoto.py`
 
