@@ -8,14 +8,15 @@ __________________________________________________________________________
 
 2. git clone this project to your preferred directory.
 
-3. `cd Encryoto-GUI`
+3. `cd Encrypto-GUI`
 
-4. `python encryoto.py`
+4. `python encrypto.py`
 
 
-__________________________________________________________________________
-**Requirements:**
-Tkinter
+or Execute:
+```
+ExecuteEncrypto.cmd
+```
 
 ![](Screenshot-img.png)
 
