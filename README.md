@@ -25,4 +25,4 @@ ExecuteEncrypto.cmd
 __________________________________________________________________________
 **License**
 
-This project is licensed under the terms of the [MIT license](https://github.com/nagracks/organizer/blob/master/LICENSE).
+This project is licensed under the terms of the [MIT license](https://github.com/yogesh7132/Encrypto-GUI/blob/master/LICENSE).
