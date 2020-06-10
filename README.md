@@ -1,8 +1,7 @@
 # Encrypto-GUI
 Python GUI Encrytion/Decrytion tool to keep file safe.
 
-__________________________________________________________________________
-**Usage**
+## Usage
 
 1. Open your Terminal/cmd
 
@@ -20,9 +19,14 @@ or Execute:
 ExecuteEncrypto.cmd
 ```
 
-![](Screenshot-img.png)
+![](screenshots/screenshot01.png)
 
-__________________________________________________________________________
-**License**
+## Installation
+Set up a virtual environment and install the dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+## License
 
 This project is licensed under the terms of the [MIT license](https://github.com/yogesh7132/Encrypto-GUI/blob/master/LICENSE).
